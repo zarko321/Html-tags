@@ -1,3 +1,4 @@
+Друга страница
 <style>
 a:link {color:blue; background-color:transparent; text-decoration:none}
 a:visited {color:blue; background-color:transparent; text-decoration:none}
@@ -12,3 +13,6 @@ a:active {color:blue; background-color:transparent; text-decoration:none}
 <a href="">
 <src img="">
 </a>
+Същата страница
+<a href="#id "> </a>
+<h2 id=" "> </h2>
